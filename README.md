@@ -23,10 +23,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IAmSympathy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IAmSympathy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmSympathy&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IAmSympathy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![snake gif](https://github.com/IAmSympathy/IAmSympathy/blob/output/github-snake-dark.svg)
 ---
