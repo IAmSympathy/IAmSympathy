@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 About Me:
-🔭 I’m currently studying Information Technology in college. <br>
+🔭 I’m currently studying Computer Science in college. <br>
 🌱 I am following a paid course on Unreal Engine.
 
 # 💻 Tech Stack:
