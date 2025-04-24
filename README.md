@@ -1,8 +1,8 @@
 <div align="center">
   
 # 💫 About Me:
-🔭 I’m currently studying Computer Science in college. <br>
-🌱 I am following a paid course on Unreal Engine.
+💻 I’m currently studying Computer Science in college. <br>
+🎮 I am following a paid course on Unreal Engine.
 
 # 💻 Tech Stack:
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
@@ -17,13 +17,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IAmSympathy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmSympathy&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 # 🤝 Contributions:
 ![](https://github-contributor-stats.vercel.app/api?username=IAmSympathy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![snake gif](https://github.com/IAmSympathy/IAmSympathy/blob/output/github-snake-dark.svg)
