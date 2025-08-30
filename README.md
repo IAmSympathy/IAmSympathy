@@ -1,8 +1,8 @@
 <div align="center">
   
 # 💫 About Me:
-💻 I’m currently studying Computer Science in college. <br>
-🎮 I'm following an Unreal Engine paid course.
+💻 Studying Computer Science in college. <br>
+🎮 Completed a professional Unreal Engine course.
 
 # 💻 Tech Stack:
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
