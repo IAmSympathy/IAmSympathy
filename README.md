@@ -4,8 +4,6 @@
 💻 Studying Computer Science in college. <br>
 🎮 Completed a professional Unreal Engine course.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IAmSympathy&repo=RoadToTemehani)](https://github.com/IAmSympathy/RoadToTemehani)
-
 # 💻 Tech Stack:
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
